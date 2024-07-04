@@ -1,6 +1,9 @@
 # 포트폴리오
-Github : https://github.com/galaxyIjinny
+Github : https://github.com/galaxyIjinny  
+Blog : https://hello-jinny.tistory.com
 
+    
+  
 ## 소개
 안녕하세요, 긍정적 마인드로 성장하는 백엔드 개발자 김현진입니다!
 처음 C언어로 신비로운 코드의 세계로 입문하여 웹 개발까지 끊임없는 흥미를 유지하고 있습니다.
@@ -8,11 +11,12 @@ Github : https://github.com/galaxyIjinny
 다양한 개발의 매력과 사람들을 만나 더 나은 미래를 만들고 싶습니다.
 
 ## 학력
-한성대학교 모바일소프트웨어학 (2019.02~2023.08)
+한성대학교 (2019.02~2023.08)  
+컴퓨터공학부 모바일소프트웨어트랙
 
 ## 기술 스택
 * Backend
-	+ Java / Spring Boot
+  + Java / Spring Boot
   + Spring Data JPA
 * DB / Cache
   + MySQL / Redis

@@ -39,16 +39,17 @@ Blog : https://hello-jinny.tistory.com
 #### 2. 개발환경
 + SpringBoot 3
 + 언어 : Java
-+ OS : Windows 10
++ OS : Windows 10, Ubuntu
 #### 3. 사용기술 및 툴
-+ IntelliJ IDEA (BE)
-+ Visual Studio Code (FE)
-#### 4. 개발 내용 설명
++ IntelliJ IDEA
++ Spring Data JPA
++ Spring Web
++ Spring Security, JWT
+#### 4. 기능 소개
 + 게시물 생성, 조회, 수정, 삭제
 + 채팅방 생성, 삭제, 채팅 메시지 전송
-+ 이메일 인증으로 회원가입
-+ JWT 토큰으로 로그인
-+ AWS EC2, RDS, S3 이용하여 배포환경 구성
++ 회원가입 및 로그인
++ 배포환경 구성 및 도메인 접속
 ***
 
 ## 자격증

@@ -2,8 +2,6 @@
 Github : https://github.com/galaxyIjinny  
 Blog : https://hello-jinny.tistory.com
 
-    
-  
 ## 소개
 안녕하세요, 긍정적 마인드로 성장하는 백엔드 개발자 김현진입니다!
 처음 C언어로 신비로운 코드의 세계로 입문하여 웹 개발까지 끊임없는 흥미를 유지하고 있습니다.
@@ -31,6 +29,8 @@ Blog : https://hello-jinny.tistory.com
 
 ## 핵심 프로젝트
 ### > Lostem - [23.09 ~ ] <
+게시물과 채팅을 통해 분실물을 찾아주는 서비스입니다.  
+직접 방문하기 보다 게시판을 통해 분실물을 편하게 찾아보자는 아이디어를 시작으로 실제로 구현해보았습니다.
 + https://github.com/LK-loty
 #### 1. 개발인원 및 포지션
 + 총 2명 (FE 1명, BE 1명)
@@ -44,9 +44,11 @@ Blog : https://hello-jinny.tistory.com
 + IntelliJ IDEA (BE)
 + Visual Studio Code (FE)
 #### 4. 개발 내용 설명
-+ 게시판 및 채팅 서비스
-+ JWT 토큰 
-+ AWS EC2, RDS, S3 이용하여 배포
++ 게시물 생성, 조회, 수정, 삭제
++ 채팅방 생성, 삭제, 채팅 메시지 전송
++ 이메일 인증으로 회원가입
++ JWT 토큰으로 로그인
++ AWS EC2, RDS, S3 이용하여 배포환경 구성
 ***
 
 ## 자격증

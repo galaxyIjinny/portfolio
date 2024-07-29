@@ -36,7 +36,7 @@ Blog : https://hello-jinny.tistory.com
 #### 1. 개발인원 및 포지션
 + 총 2명 (FE 1명, BE 1명)
 + 공동 기획 및 디자인
-+ 역할 : BE 로직 구현, AWS 배포 환경 구성
++ 역할 : BE 기능 구현, AWS EC2 및 RDS 사용하여 배포
 #### 2. 개발환경
 + SpringBoot 3
 + 언어 : Java
